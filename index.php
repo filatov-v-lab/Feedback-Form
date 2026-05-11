@@ -329,7 +329,7 @@
 </main>
 
 <footer>
-  <p>Задание для самостоятельной работы «Feedback form»</p>
+  <p>Задание для домашней работы «Feedback form»</p>
 </footer>
 
 </body>
